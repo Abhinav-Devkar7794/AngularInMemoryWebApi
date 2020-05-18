@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "InMemoryWebApi-Angular"
+    }
+  },
+  "defaultProject": "InMemoryWebApi-Angular",
+  "cli": {
+    "analytics": "b65a666f-92d7-4532-a099-d710c7e0192d"
+  }
 }
